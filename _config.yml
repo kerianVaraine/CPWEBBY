@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 root: /
-baseurl: "/charlotte_parallel" # the subpath of your site, e.g. /blog  EDIT_ME
-url: " https://kerianvaraine.github.io/CPWEBBY/" # the base hostname & protocol for your site, e.g. http://example.com     EDIT_ME
+baseurl: "/CPWEBBY" # the subpath of your site, e.g. /blog  EDIT_ME
+url: " https://kerianvaraine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com     EDIT_ME
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
