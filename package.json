@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CPWEBBY", //EDIT_ME
   "main": "index.js",
-  "repository": "https://github.com/",
+  "repository": "http://kerianvaraine.github.io/CPWEBBY",
   "author": "Artem Sheludko",
   "license": "MIT",
   "dependencies": {
@@ -16,4 +16,4 @@
     "gulp-sass": "^3.1.0",
     "imagemin-pngquant": "^5.0.0"
   }
-}
+} 
