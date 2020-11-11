@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CPWEBBY", //EDIT_ME
   "main": "index.js",
-  "repository": "http://kerianvaraine.github.io/CPWEBBY",
+  "repository": "https://kerianvaraine.github.io/CPWEBBY",
   "author": "Artem Sheludko",
   "license": "MIT",
   "dependencies": {
