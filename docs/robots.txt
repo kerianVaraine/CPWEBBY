@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/charlotte_parallel/sitemap.xml
+Sitemap: http://kerianvaraine.github.io//CPWEBBY/sitemap.xml
